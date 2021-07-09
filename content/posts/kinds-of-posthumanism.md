@@ -1,6 +1,6 @@
 ---
 title: "Kinds of Posthumanism"
-date: 2021-08-08T19:31:53-07:00
+date: 2021-07-09T19:31:53-07:00
 draft: true
 ---
 
