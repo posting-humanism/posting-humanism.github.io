@@ -3,4 +3,6 @@ languageCode = "en-us"
 title = "Posting Humanism"
 theme = "ananke"
 relativeURLs = true
+
+[params]
 googleAnalyticsID = "G-QNDJJD62GD"
