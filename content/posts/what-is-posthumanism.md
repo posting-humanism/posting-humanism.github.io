@@ -1,7 +1,7 @@
 ---
 title: "What Is Posthumanism"
 date: 2021-07-08T17:54:41-07:00
-draft: true
+draft: false
 ---
 
 You've read the title, and you see my blog. You keep reading this sentence and you see the following words: "Let's, together, go into this ideology with a completely blank slate." You think to yourself "you know, I've been needing a new ideology for a bit now" and you agree.
