@@ -1,6 +1,5 @@
-baseURL = "posting-humanism.github.io"
+baseURL = "https://posting-humanism.github.io/"
 languageCode = "en-us"
 title = "Posting Humanism"
 theme = "ananke"
 relativeURLs = true
-canonifyURLs = true
