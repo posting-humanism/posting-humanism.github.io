@@ -19,10 +19,9 @@ So, what would post-human veganism look like? Well, it has to "shift the startin
 
 But it gets worse. We could take this a step further and say that humans cant make moral judgements because nothing alive could possibly have an unbiased, approaching correct framework. An anti-life post-humanist, or simply an anti-life-ist, would simply believe that the universe was better off without life to begin with, and that life is somehow antithetical to the purpose of the universe at large. I mean this is simply just a villian take, right? I'm not sure who out here is really more concerned about the safety of rocks over humans, but it does fit our framework. In a way. I guess.
 
+Religious post-humanism is actually fairly straight forward and reasonable and definitely practiced by actual people and not just weird cultists or edgy nerds. But maybe those too. Religious post-humanism could take the form of any religion that de-emphasizes the human, and puts a religious entity as the new starting point for all morals and philosophical inquiry. So, you now, it basically just says god is better than us, and is always right. However, I feel like it's important to point out here that while that makes it sound like basically all religions fall under our definition of post-human, it largely depends on the interperatation of the religion that an individual or sect subscribes to. Classic example: christianity. This is not true of all christian beliefs, but I would say the vast majority of christians take a very human centered take on god. The very idea that an all knowing being would send a human down to Earth specifically to save us is a straight up admission that christians believe that humans are more important than other forms of intelligence. Where was dog-jesus? Who came down to save the souls of the poison dart frogs from sin? Furthermore, all abrahamic religions believe that god created humans in It's image. Morality may have been ordained by god, but if humans are basically just little 3D printed knock offs of god's enternal, all embracing, supple dad bod, they get quite a bit more "emphasis" than anyone else. Just saying.
 
-
-full circle arguement goes here
-
-anti-life-ism 
 
 google hindism and discuss how norse and greek mythologies are solid attempts to be post-human, but they still feel pretty human
+
+sike, that was all pre-humanism. you think im going to let people who worship rocks into my sick new robo-ideology? gtfo nerds.
