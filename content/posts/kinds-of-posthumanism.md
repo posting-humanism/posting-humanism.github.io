@@ -6,7 +6,7 @@ draft: true
 
 Now that we know what post-humanism is, we can finally figure out what some post-human ideologies might look like under our definition. Remember, the goal of any post-humanist ideology should be to at least shift the "starting point for serious moral and philosophical inquiry" away from to human, and to something else.
 
-I am going to porpose a few real subsects I've observe within this fake version of a real ideology that I made up:
+So, let's do this. We are going to explore a few real groups I've observed within this fake version of a real ideology that I made up:
 
  - Vegan post-humanism (please trust me)
  - Anti-life-ism
@@ -21,6 +21,19 @@ But it gets worse. We could take this a step further and say that humans cant ma
 
 Religious post-humanism is actually fairly straight forward and reasonable and definitely practiced by actual people and not just weird cultists or edgy nerds. But maybe those too. Religious post-humanism could take the form of any religion that de-emphasizes the human, and puts a religious entity as the new starting point for all morals and philosophical inquiry. So, you now, it basically just says god is better than us, and is always right. However, I feel like it's important to point out here that while that makes it sound like basically all religions fall under our definition of post-human, it largely depends on the interperatation of the religion that an individual or sect subscribes to. Classic example: christianity. This is not true of all christian beliefs, but I would say the vast majority of christians take a very human centered take on god. The very idea that an all knowing being would send a human down to Earth specifically to save us is a straight up admission that christians believe that humans are more important than other forms of intelligence. Where was dog-jesus? Who came down to save the souls of the poison dart frogs from sin? Furthermore, all abrahamic religions believe that god created humans in It's image. Morality may have been ordained by god, but if humans are basically just little 3D printed knock offs of god's enternal, all embracing, supple dad bod, they get quite a bit more "emphasis" than anyone else. Just saying.
 
+Other religions lend themselves to post humanism more easily. Hinduism, for example, believes that all living things have an equal soul, and that the entire universe is one. Hinduism certainly puts much less emphasis on the human. 
+
+But are these theories really "post-humanist"? They feel like...the wrong direction. In my last post, I mentioned that the "post" in "post-humanism" feels very directional. post-humanism must come after humanism; not before. These three ideologies above might not be humanist, but they are not necessarily directionally *after* humanism. Time to make up a new humanism: pre-humanism. I love new isms. Its like collecting stamps or something.
+
+Anyway, the surrender to nature, or primordial beings, or...rocks. These things are distinct from our beloved post-humanism in that they shift the emphasis away from the human, sure, but to some pre-human entity. They do not evolve past the human, but simply claim that the human is arrogant, and not as far beyond it's creators as it believes.^*
+
+"Fine" you say, "Then what was the point of all this? I thought we already defined what post-humanism is. Why title this article 'kinds of post-humanism' if you were just gonna ramble about another made up ideology in the end?"
+
+Well A) This is my blog B) We have defined it in vague terms, yes, but we haven't yet explored what it actually means to apply that definition to real world beliefs C) A good way to do that is to try to find post-human ideologies and see how they stand up to scrutiny and D) This *isn't* your blog so don't tell me what to do.
+
+
+
+^* One caveat I would like to make is that one make the argument that religious pre-humanism actually is post-human in that the "pre-human entities" that it invents were invent by humans and, therefore, the ideology is emphisizing things that are *techinically* post-human. This is very silly but I love the hustle, good work. Gold star.
 
 google hindism and discuss how norse and greek mythologies are solid attempts to be post-human, but they still feel pretty human
 
