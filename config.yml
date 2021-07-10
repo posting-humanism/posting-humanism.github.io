@@ -1,0 +1,23 @@
+baseURL: 'https://posting-humanism.github.io/'
+languageCode: en-us
+title: Home
+theme: PaperMod
+relativeURLs: true
+paginate: 5
+googleAnalytics: G-QNDJJD62GD
+
+menu:
+    main:
+        - identifier: archives
+          name: archives
+          url: /archives/
+          weight: 10
+
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    title: Posting Humanism
+    description: "Nice blog you got there"
+    defaultTheme: auto
+    homeInfoParams:
+        Title: Posting Humanism
+        Content: Whats humanism? Are there other isms out there, perhaps? Really COOL isms?

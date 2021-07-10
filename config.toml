@@ -1,7 +1,0 @@
-baseURL = "https://posting-humanism.github.io/"
-languageCode = "en-us"
-title = "Posting Humanism"
-theme = "mini"
-relativeURLs = true
-
-googleAnalytics = "G-QNDJJD62GD"
