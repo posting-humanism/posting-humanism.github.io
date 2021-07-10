@@ -33,7 +33,7 @@ Well A) This is my blog B) We have defined it in vague terms, yes, but we haven'
 
 
 
-^* One caveat I would like to make is that one make the argument that religious pre-humanism actually is post-human in that the "pre-human entities" that it invents were invent by humans and, therefore, the ideology is emphisizing things that are *techinically* post-human. This is very silly but I love the hustle, good work. Gold star.
+^* One caveat I would like to point out is that one could make the argument that religious pre-humanism actually is post-human in that the "pre-human entities" that it invents were invent by humans. Therefore, the ideology is emphisizing things that are *techinically* post-human. This is very silly but I love the hustle, good work. Gold star.
 
 google hindism and discuss how norse and greek mythologies are solid attempts to be post-human, but they still feel pretty human
 
