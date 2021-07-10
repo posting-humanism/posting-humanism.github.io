@@ -1,5 +1,5 @@
 ---
-title: "Kinds of Posthumanism"
+title: "Kinds of Post-Humanism"
 date: 2021-07-09T19:31:53-07:00
 draft: true
 ---

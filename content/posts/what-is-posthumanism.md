@@ -1,5 +1,5 @@
 ---
-title: "What Is Posthumanism"
+title: "What Is Post-Humanism?"
 date: 2021-07-08T17:54:41-07:00
 draft: false
 ---
