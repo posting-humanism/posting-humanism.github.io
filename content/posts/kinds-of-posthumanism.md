@@ -20,7 +20,7 @@ Other religions lend themselves to post-humanism more easily. Hinduism, for exam
 
 But are these theories really "post-humanist"? They fit in the framework I described at the beginning, but they feel like the wrong...direction. In my last post, I mentioned that the "post" in "post-humanism" feels very directional. Post-humanism must come after humanism; not before. These three ideologies above might not be humanist, but they are not necessarily directionally *after* humanism. Time to make up a new humanism: pre-humanism. I love new isms. It's like collecting stamps or something.
 
-Anyway, the surrender to nature, or primordial beings, or...rocks. These things are distinct from our beloved post-humanism in that they shift the emphasis away from the human, sure, but to some pre-human entity. They do not evolve past the human, but simply claim that the human is arrogant, and not as far beyond its creators as it believes.^*
+Anyway, the surrender to nature, or primordial beings, or...rocks. These things are distinct from our beloved post-humanism in that they shift the emphasis away from the human, sure, but to some pre-human entity. They do not evolve past the human, but simply claim that the human is arrogant, and not as far beyond its creators as it believes.*
 
 "Fine" you say, "Then what was the point of all this? I thought we already defined what post-humanism is. Why title this article 'kinds of post-humanism' if you were just gonna ramble about another made up ideology in the end?"
 
@@ -33,4 +33,5 @@ Now, this is a hard sell. How do you convince humans to stop caring about themse
 Well, this one is sounding a lot like a cult too. But is it post-human? Definitely.
 
 > Footnotes:
-> ^* One caveat I would like to point out is that one could make the argument that religious pre-humanism actually is post-human in that the "pre-human entities" that it invents were invented by humans. Therefore, the ideology is emphasizing things that are *technically* post-human. This is very silly but I love the hustle, good work. Gold star.
+> 
+> * One caveat I would like to point out is that one could make the argument that religious pre-humanism actually is post-human in that the "pre-human entities" that it invents were invented by humans. Therefore, the ideology is emphasizing things that are *technically* post-human. This is very silly but I love the hustle, good work. Gold star.
