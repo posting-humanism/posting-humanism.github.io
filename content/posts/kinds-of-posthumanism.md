@@ -34,4 +34,4 @@ Well, this one is sounding a lot like a cult too. But is it post-human? Definite
 
 > Footnotes:
 > 
-> * One caveat I would like to point out is that one could make the argument that religious pre-humanism actually is post-human in that the "pre-human entities" that it invents were invented by humans. Therefore, the ideology is emphasizing things that are *technically* post-human. This is very silly but I love the hustle, good work. Gold star.
+> * A caveat I would like to point: one could make the argument that religious pre-humanism actually is post-human in that the "pre-human entities" that it invents were invented by humans. Therefore, the ideology is emphasizing things that are *technically* post-human. This is very silly but I love the hustle, good work. Gold star.
