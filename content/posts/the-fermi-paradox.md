@@ -27,7 +27,7 @@ Almost 10,000 more years have passed on this planet.
 Due to the further settling of the soil from the impact, the pebble has slowly slid to the bottom of its small hill.
 A few more smaller impacts have occurred nearby, but nothing exciting enough to give this pebble its damn view back.
 "Sigh..." the pebble doesn't say.
-A beautiful comet, completely obscured due to the lack of an atmosphere, is illuminated overhead.
+A beautiful comet, completely unobscured due to the lack of an atmosphere, is illuminated overhead.
 The pebble doesn't see it.
 
 After almost 1,000,000 of this planet’s years later (close to a billion earth years), the pubble has decayed somewhat from the faint solar radiation of the far away star it is orbiting, but the differences are minor.
