@@ -32,6 +32,8 @@ Now, this is a hard sell. How do you convince humans to stop caring about themse
 
 Well, this one is sounding a lot like a cult too. But is it post-human? Definitely.
 
-> Footnotes:
-> 
-> <sup>*</sup> A caveat I would like to point: one could make the argument that religious pre-humanism actually is post-human in that the "pre-human entities" that it invents were invented by humans. Therefore, the ideology is emphasizing things that are *technically* post-human. This is very silly but I love the hustle, good work. Gold star.
+---
+
+Footnotes:
+
+<sup>*</sup> A caveat I would like to point: one could make the argument that religious pre-humanism actually is post-human in that the "pre-human entities" that it invents were invented by humans. Therefore, the ideology is emphasizing things that are *technically* post-human. This is very silly but I love the hustle, good work. Gold star.
