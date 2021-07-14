@@ -1,7 +1,7 @@
 ---
 title: "The Fermi Paradox"
 date: 2021-07-13T23:48:58-07:00
-draft: true
+draft: false
 ---
 
 A pebble sits on a hill.
