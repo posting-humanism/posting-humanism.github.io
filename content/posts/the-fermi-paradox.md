@@ -1,6 +1,6 @@
 ---
 title: "The Fermi Paradox"
-date: 2021-07-12T23:48:58-07:00
+date: 2021-07-13T23:48:58-07:00
 draft: true
 ---
 
@@ -16,4 +16,6 @@ Out in the cold dark of space, the pebble sits there, stationary as ever, and no
 
 ---
 
-This story is playing out across countless worlds in countelss galaxies. The universe is mindbogglingly massive, operates on timescales inconcievable to the human mind, and, as far as we know, very nearly empty. Unless you are some sort of "anti-life-ist", this should concern you.
+This story is playing out across countless worlds in countless galaxies. The universe is mindbogglingly massive, operates on timescales inconcievable to the human mind, and, as far as we know, very nearly empty. Unless you are some sort of "anti-life-ist", this should concern you. The universe is full of pebbles, and stars for them to orbit, going about their dance for billions of years. No one there to appreciate them. No one there to even observe them in the first place. So much space, serving no apperent purpose. Everything just going about its business in some giant, random, pointless dance.
+
+It concerns me, at least. Barring some sort or religious meaning, I would like to think that we are not alone. That this planet is not the only place worth live all in all the universe. 1
