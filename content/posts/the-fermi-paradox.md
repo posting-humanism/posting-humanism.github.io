@@ -138,7 +138,7 @@ In a sense, yes.
 But this is not about faith, or belief.
 I am not asking anyone to become some sort of nihilistic space cultist.
 I am simply trying to point out how the precarious, volatile world we live in might be more important that we give it credit for.
-And, as I'm sure I don't really need to point out, the situation in this world doesn't seem to be trending in any sort of "positive" direction.
+And, as I'm sure I don't really need to point out, the situation on this world doesn't seem to be trending in any sort of "positive" direction.
 
 As far as we know, we humans are the only beings in the whole universe of saving this planet.
 And if we don't, we could be dooming the universe to an existence of uncaring, unmoving, coarse pebbles, drifting in the darkness for all eternity.
