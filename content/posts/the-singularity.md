@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning and the Singularity"
-date: 2021-07-27T09:22:48-07:00
-draft: true
+date: 2021-08-01T09:22:48-07:00
+draft: false
 ---
 
 What is a singularity?
@@ -62,24 +62,25 @@ And it contains...intelligence?
 Maybe it *technically* counts?
 But the problem here lies with the difference between what Nolan's Interstellar thinks is an AI, and what we are calling an AI.
 
-In Interstellar, TARS and CASE are independant beings that can opperate without human intervention and even have the ability to joke around with the other crew members.
+In Interstellar, the robots TARS and CASE are independant beings that can opperate without human intervention and even have the ability to joke around with the other crew members.
 Our AI today isn't really *thinking* for itself. 
 Rather, it runs data through a deterministic algorithm that spits out an answer.
 You could make the arguement that on some level our brains do the same thing just on a much larger scale, but that misses the point.
 We can make decisions.
 We can see something we have never seen before and try to make sense of it.
 We can pose a threat.
+We can extropolate from one situation and apply it to something we've never encountered before.
 We have goals.
 
-A machine learning algorithm cannot.
+A machine learning algorithm can't do any of that.
 In fact a machine learning algorithm can't really do anything we don't want it to do.
 We are in full control and can only end up hurting people with one of these "AI's" if we apply them incorrectly.
-A machine learning algorithm cant make a decision on something it was not trained by us to decide on, and it might be able to write code, but it can't bring about a technological singularity (lame).
+A machine learning algorithm cant make a decision on something it was not trained by us to decide on, and it might be able to write code, technically, but it can't bring about a technological singularity (lame).
 
-This is why both things Elon Musk has calimed about AI are false: his AI can't drive cars. Not really, anyway.
-Sure, they can drive ok on the highway, and even in some country roads, but you will notice they perform horribly on any sort of pedestrian street.
+This is why both things Elon Musk has claimed about AI are false: the AI apocolypse isn't coming any time soon because the framework we are using prevents it and his model for AI uses that same framework, vastly reducing the potential it has, and most likely meaning it won't ever be able to fully drive a car.
+
+In fact, his "AI" can't even drive on non-artirial roads very well.
 There are too many variables, to many potential situations to train for.
-Too many local variations on street regulations, and to many things you can't account for.
 Not to mention the fact that if a model existed that *could* drive anywhere, it probably couldn't run on a computer that would be found in a consumer car.
 
 Don't get me wrong, I think we should keep trying (*cough* and also invest heavily in public transit *cough*), but we shouldn't be scared on modern AI because of some singularity it might cause.
