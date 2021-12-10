@@ -1,5 +1,5 @@
 ---
-title: "Is space colonization the next generation of colonialism?"
+title: "Is Space Colonization the Next Generation of Colonialism?"
 date: 2021-08-01T09:22:48-07:00
 draft: false
 ---
