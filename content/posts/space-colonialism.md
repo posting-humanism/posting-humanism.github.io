@@ -1,6 +1,6 @@
 ---
 title: "Is Space Colonization the Next Generation of Colonialism?"
-date: 2021-08-01T09:22:48-07:00
+date: 2021-12-09T09:22:48-07:00
 draft: false
 ---
  
