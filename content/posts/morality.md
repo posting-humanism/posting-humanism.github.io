@@ -1,7 +1,7 @@
 ---
 title: "Post-Human Morality"
-date: 2022-08-7T19:31:53-08:00
-draft: False
+date: 2022-08-7T19:31:53-07:00
+draft: false
 ---
 
 Lets revisit posthumanism, and the kinds of posthumanism that could exist.
@@ -49,8 +49,6 @@ Our morality too, our drive to care for those that care for us, is completely in
 If we make an artificial intelligence that we tell to have these wants as well,we are imposing our instinctual needs on a being that has no need for them.
 In doing so, we should accept that this being would be, in essence, human.
 No matter the physical form it should take.
-
----
 
 A truely post-human being would not have these needs, and because of this would likely do nothing at all.
 Much like how a desktop computer does nothing unless it is told to do so.
