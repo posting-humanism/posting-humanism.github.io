@@ -1,6 +1,6 @@
 ---
 title: "Post-Human Morality"
-date: 2022-08-7T19:31:53-07:00
+date: 2022-08-7
 draft: false
 ---
 
